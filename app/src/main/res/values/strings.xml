@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="edit_message">メッセージを入れろ</string>
+    <string name="button_send">送信だ</string>
 </resources>
